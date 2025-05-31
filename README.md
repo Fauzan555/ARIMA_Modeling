@@ -99,7 +99,7 @@ The model is typically written as ARIMA(p, d, q).
 Clone the repository:
 
 
-# git clone https://github.com/Fauzan555/Guide_on_time_series_analysis.git
+git clone https://github.com/Fauzan555/Guide_on_time_series_analysis.git
 
 # cd Guide_on_time_series_analysis
 
