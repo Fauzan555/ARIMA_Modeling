@@ -145,6 +145,8 @@ scikit-learn
 
 # References
 
+# https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+
 ARIMA Model - Wikipedia
 
 Statsmodels Documentation
