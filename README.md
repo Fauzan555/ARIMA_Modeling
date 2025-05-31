@@ -2,10 +2,17 @@
 
 # Table of Contents
 Overview
+
 Dataset
+
 Workflow
+
 ARIMA Modeling Steps
+
 How to Run
+
 Results
+
 Dependencies
+
 References
